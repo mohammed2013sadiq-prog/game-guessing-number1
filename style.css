@@ -1,0 +1,15 @@
+body {
+
+}
+.game-container {
+background-color: blue;
+padding: 30px;
+border-radius: 10px;
+text-align:  center;
+box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+
+}
+input 
+padding: 10px 20px;
+width: 60
+
