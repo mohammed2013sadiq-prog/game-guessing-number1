@@ -1,15 +1,27 @@
 body {
-
-}
 .game-container {
-background-color: blue;
-padding: 30px;
-border-radius: 10px;
+background-color: rgb(5, 255, 101);
+padding: 300px;
+border-radius: 50px;
 text-align:  center;
-box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
-
+box-shadow: 0 0 15px rgba(171, 11, 219, 0.6);
 }
-input 
-padding: 10px 20px;
-width: 60
 
+ input {
+    padding: 10px;
+    width: 60%;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+ }
+
+ button {
+    padding: 40px 40px;
+    margin: 20px;
+    border: none;
+    background-color: rgb(40, 158, 226);
+    color:bisque;
+    font-weight: bold;
+    border-radius: 5px;
+cursor: pointer;
+ }
